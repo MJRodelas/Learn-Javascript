@@ -4,6 +4,6 @@
 
 let fName = "Mark Jayson"
 let lName = "Rodelas"
-let fullName = fName + lName
+let fullName = fName + " " + lName
 
 console.log(fullName)
